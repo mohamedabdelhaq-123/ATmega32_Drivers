@@ -1,0 +1,1 @@
+APP/MOVMENT_Prog.d APP/MOVMENT_Prog.o: ../APP/MOVMENT_Prog.c
